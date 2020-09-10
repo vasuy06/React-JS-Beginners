@@ -1,0 +1,11 @@
+What is React?
+React is a JavaScript library — one of the most popular.
+React is an open-source project created by Facebook.
+React is not a framework (unlike Angular).
+React is used to build user interfaces (UI) on the front end.
+React is used to build single-page applications(SPAs).
+React is the view layer of an MVC application (Model View Controller)
+ReactJS is a JavaScript library used for building reusable UI components. This means it is a view library that uses components to change content on the page without refreshing which is the core principle behind single-page applications.
+React Features
+JSX − JSX stands for JavaScript XML. JSX is JavaScript syntax extension. JSX allows us to write HTML in React. It isn’t necessary to use JSX in React development, but it is recommended. With JSX you can write expressions inside curly braces { } including variables, functions, and properties.
+Unidirectional data flow − React implements a one-way data flow. In React, data values are passed to each component as properties in its HTML tags. The component cannot directly modify any properties but can pass a callback function and with the help of this, it can modify the data.
